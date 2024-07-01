@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PS4KErk3/qUCzAN/3VF12Rcx36ZC2Ob31df53U6a/gPCBoh4fGCWxMRAlp+JVA5F/PiH0Rh6v3HjzUr/9fj+ig==",
+  "success": true,
+  "projectFilePath": "E:\\2024kaizen\\postgrestewithproceduremethod\\postgrestewithproceduremethod\\postgrestewithproceduremethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.16\\microsoft.aspnetcore.jsonpatch.3.1.16.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.16\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.16.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
